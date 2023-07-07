@@ -17,7 +17,7 @@ dependencies:
     git:
       url: https://github.com/4rthurmonteiro/dd-sdk-flutter.git
       path: packages/datadog_flutter_plugin
-      ref: remove_ios
+      ref: fix/add_generated
   uuid: ^3.0.5
   http: ^0.13.5
 
