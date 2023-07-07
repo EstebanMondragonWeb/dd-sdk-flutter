@@ -12,4 +12,4 @@ android/ndk_crash_reports/network_information
 **/.cxx/
 
 # generated files
-*.g.dart
+# *.g.dart
