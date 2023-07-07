@@ -34,8 +34,8 @@ flutter:
       android:
         package: com.datadoghq.flutter
         pluginClass: DatadogSdkPlugin
-      ios:
-        pluginClass: DatadogSdkPlugin
+      # ios:
+      #   pluginClass: DatadogSdkPlugin
       web:
         pluginClass: DatadogSdkWeb
         fileName: datadog_flutter_plugin_web.dart
